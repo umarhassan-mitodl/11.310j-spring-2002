@@ -14,4 +14,4 @@ Spirn, Anne Whiston. _The Language of Landscape._ Yale University Press Publishi
 
 ———. _The West Philadelphia Landscape Plan:_ _A Framework for Action_. Graduate School of Fine Arts, University of Pennsylvania, 1991.
 
-[West Philadelphia Landscape Project](http://web.mit.edu/wplp/index.html) Web site.
+{{% resource_link "c8d4114d-ec3b-4ea3-a7d7-59008ad9f838" "West Philadelphia Landscape Project" %}} Web site.

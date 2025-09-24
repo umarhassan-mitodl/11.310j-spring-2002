@@ -13,7 +13,7 @@ Products
 
 Each student will come up with two proposals for Web sites, each designed to serve as a resource for the transfer of knowledge and future planning in the Mill Creek and Brightwood/Northend neighborhoods, respectively. In the last month of the semester, each student will collaborate on the implementation of one of these proposals.
 
-For further background on the project, see the [WPLP](http://web.mit.edu/wplp/index.html) Web site. The WPLP Web site has received millions of hits since it first went online in Spring of 1996.
+For further background on the project, see the {{% resource_link "c8d4114d-ec3b-4ea3-a7d7-59008ad9f838" "WPLP" %}} Web site. The WPLP Web site has received millions of hits since it first went online in Spring of 1996.
 
 Course Requirements
 -------------------
