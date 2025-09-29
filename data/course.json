@@ -38,7 +38,8 @@
     "website": "11-310j-media-technology-and-city-design-and-development-spring-2002"
   },
   "course_title": "Media Technology and City Design and Development",
-  "course_description": "This workshop explores the potential of media technology and the Internet to enhance communication and transform city design and community development in inner-city neighborhoods. The class introduces a variety of methods for describing or representing a place and its residents, for simulating actions and changes, for presenting visions of the future, and for engaging multiple actors in the process of envisioning change and guiding action. Students will engage two neighborhoods: the Mill Creek neighborhood of West Philadelphia, PA, and the Brightwood/Northend neighborhood of Springfield, MA.\u00a0Students will meet real people working on real projects, put theory into practice, and reflect on insights gained in the process. Our hope is that student work will contribute to new initiatives in both communities.\n\nThe class Web site can be found here:\u00a0{{% resource_link \"bced874b-a46c-4679-9d04-d1fade08c62c\" \"Media Technology and City Design and Development\" %}}.\u00a0It is sponsored by the\u00a0{{% resource_link \"c8d4114d-ec3b-4ea3-a7d7-59008ad9f838\" \"West Philadelphia Landscape Project\" %}}\u00a0and the Center for Reflective Community Practice.\n",
+  "hide_download": true,
+  "course_description": "This workshop explores the potential of media technology and the Internet to enhance communication and transform city design and community development in inner-city neighborhoods. The class introduces a variety of methods for describing or representing a place and its residents, for simulating actions and changes, for presenting visions of the future, and for engaging multiple actors in the process of envisioning change and guiding action. Students will engage two neighborhoods: the Mill Creek neighborhood of West Philadelphia, PA, and the Brightwood/Northend neighborhood of Springfield, MA.\u00a0Students will meet real people working on real projects, put theory into practice, and reflect on insights gained in the process. Our hope is that student work will contribute to new initiatives in both communities.\n\nThe class Web site can be found here:\u00a0[Media Technology and City Design and Development](http://web.mit.edu/4.243j/www/index.html).\u00a0It is sponsored by the\u00a0[West Philadelphia Landscape Project](http://web.mit.edu/wplp/index.html)\u00a0and the Center for Reflective Community Practice.\n",
   "department_numbers": [
     "11",
     "4"
@@ -49,6 +50,7 @@
     "content": "092149ef-40d7-54ca-fdb0-47e539928923",
     "website": "11-310j-media-technology-and-city-design-and-development-spring-2002"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Projects with Examples",
     "Written Assignments with Examples"

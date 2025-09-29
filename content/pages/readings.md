@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides a bibliography of required readings for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -14,4 +16,4 @@ Spirn, Anne Whiston. _The Language of Landscape._ Yale University Press Publishi
 
 ———. _The West Philadelphia Landscape Plan:_ _A Framework for Action_. Graduate School of Fine Arts, University of Pennsylvania, 1991.
 
-{{% resource_link "c8d4114d-ec3b-4ea3-a7d7-59008ad9f838" "West Philadelphia Landscape Project" %}} Web site.
+[West Philadelphia Landscape Project](http://web.mit.edu/wplp/index.html) Web site.

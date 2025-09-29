@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides the course description and background
   information on the workshop.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -13,7 +15,7 @@ Course Description
 
 This workshop explores the potential of media technology and the Internet to enhance communication and transform city design and community development in inner-city neighborhoods. The class introduces a variety of methods for describing or representing a place and its residents, for simulating actions and changes, for presenting visions of the future, and for engaging multiple actors in the process of envisioning change and guiding action. Students will engage two neighborhoods, meet real people working on real projects, put theory into practice, and reflect on insights gained in the process. Our hope is that student work will contribute to new initiatives in both communities.
 
-Within this context of media technology, a major theme will be the transfer of knowledge from a fifteen-year old university-community partnership in Philadelphia, the West Philadelphia Landscape Project ({{% resource_link "c8d4114d-ec3b-4ea3-a7d7-59008ad9f838" "WPLP" %}}). This will entail both a re-presentation of knowledge to those currently living in or working in West Philadelphia and a presentation of lessons from WPLP relevant to other university-community partnerships, such as the recent partnership between MIT and Springfield. The integration of comprehensive, top-down approaches and grassroots, bottom-up approaches to urban design and planning is another major theme. A third theme is how different types of languages (e.g. professional and vernacular, verbal and visual, English and Spanish) facilitate and impede thinking and communicating about alternatives for city planning and design.
+Within this context of media technology, a major theme will be the transfer of knowledge from a fifteen-year old university-community partnership in Philadelphia, the West Philadelphia Landscape Project ([WPLP](http://web.mit.edu/wplp/index.html)). This will entail both a re-presentation of knowledge to those currently living in or working in West Philadelphia and a presentation of lessons from WPLP relevant to other university-community partnerships, such as the recent partnership between MIT and Springfield. The integration of comprehensive, top-down approaches and grassroots, bottom-up approaches to urban design and planning is another major theme. A third theme is how different types of languages (e.g. professional and vernacular, verbal and visual, English and Spanish) facilitate and impede thinking and communicating about alternatives for city planning and design.
 
 Places
 ------
