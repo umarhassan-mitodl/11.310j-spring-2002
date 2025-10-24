@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides an example Web site created by a student in the
   class.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

@@ -6,8 +6,6 @@ description: Example of student work for a project to create a website to enable
 file: /courses/11-310j-media-technology-and-city-design-and-development-spring-2002/ed84413772877d5c69a064844467b52b_kim.pdf
 file_size: 457357
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
